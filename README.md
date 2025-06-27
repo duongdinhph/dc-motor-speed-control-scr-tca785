@@ -30,6 +30,12 @@ Successfully implemented the motor speed controller on a physical prototype, con
 
 ### 🧠 Control Concept
 
+<div align="center">
+  <img src="images/Control Schematic Diagram .png" alt="Control diagram" width="500"><br>
+  <img src="images/pwm.png" alt="pwm" width="500">
+</div>
+
+
 - Motor speed is controlled using **phase-angle control** of the input AC via SCRs.
 - The **TCA785** IC performs waveform generation, synchronization, and PWM generation.
 - A **manual control unit** adjusts speed via a potentiometer or analog signal.
@@ -46,7 +52,9 @@ Successfully implemented the motor speed controller on a physical prototype, con
   - **±15V DC** for operational amplifiers and analog circuits.
 
 ### 2. **Control Circuit Block**
-
+<div align="center">
+  <img src="images/tca785.png" alt="tca785" width="500">
+</div>
 - Built around the **TCA785 IC**, which performs:
   - Synchronous voltage generation
   - Sawtooth waveform generation
