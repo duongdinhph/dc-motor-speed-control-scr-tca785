@@ -75,15 +75,15 @@ Successfully implemented the motor speed controller on a physical prototype, con
 ### 🖼️ Motor Speed Control Circuit
 
 <div align="center">
-  <img src="images/motor_control_1.png" alt="Motor Speed Control Circuit Part 1" width="500"><br>
-  <img src="images/motor_control_2.png" alt="Motor Speed Control Circuit Part 2" width="500">
+  <img src="images/control_SCH.png" alt="Motor Speed Control Circuit Part 1" width="500"><br>
+  <img src="images/control_PCB_2.png" alt="Motor Speed Control Circuit Part 2" width="500">
 </div>
 
 ### 🧠 Feedback and PI Controller Circuit
 
 <div align="center">
-  <img src="images/pid_feedback_1.png" alt="PID Feedback Circuit Part 1" width="500"><br>
-  <img src="images/pid_feedback_2.png" alt="PID Feedback Circuit Part 2" width="500">
+  <img src="images/PID_SCH.png" alt="PID Feedback Circuit Part 1" width="500"><br>
+  <img src="images/PID_PCB_2.png" alt="PID Feedback Circuit Part 2" width="500">
 </div>
 
 Each simulation includes:
