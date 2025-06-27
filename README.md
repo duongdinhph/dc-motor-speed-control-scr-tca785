@@ -139,5 +139,3 @@ dc-motor-controller-scr/
 - Small industrial DC motor drives
 - Educational projects on power electronics and control systems
 - Base design for speed-controlled fans, pumps, or conveyors
-
-Feel free to open an issue or submit a pull request if you'd like to suggest improvements or expand this project.
