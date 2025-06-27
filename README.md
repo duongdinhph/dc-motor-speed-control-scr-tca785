@@ -61,7 +61,7 @@ Successfully implemented the motor speed controller on a physical prototype, con
   - Comparator function
   - Pulse output generation for SCR triggering
 
-### 3. **Pulse Transformer Block **
+### 3. **Pulse Transformer Block**
 
 - Provides **galvanic isolation** between the control and power circuits.
 - Prevents damage to the controller during short-circuit or high current surges in the load.
@@ -103,20 +103,12 @@ Each simulation includes:
 
 ## 📁 Repository Structure
 
-dc-motor-controller-scr/
-│
-├── images/ # All schematic and simulation images
-│ ├── motor_control_1.png
-│ ├── motor_control_2.png
-│ ├── pid_feedback_1.png
-│ └── pid_feedback_2.png
-│
-├── schematic/ # Altium Designer files
-│ ├── controller_schematic.SchDoc
-│ └── feedback_pid.SchDoc
-│
-├── README.md # Project documentation
-└── LICENSE # (Optional) Add a license
+dc-motor-controller-scr/  
+│  
+├── images/ # All schematic and simulation images  
+├── docs/ # project report  
+├── src/ # Altium Designer files  
+├── README.md # Project documentation  
 
 
 ---
